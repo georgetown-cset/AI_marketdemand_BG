@@ -6,7 +6,6 @@ SELECT t.*,
   CAST(retrieval_date AS DATETIME) AS job_posting_date,
   c.canon_certification as certification
 FROM `gcp-cset-projects.burning_glass.job` t
--- jd: I didn't know about "USING", thank you!
 LEFT JOIN `gcp-cset-projects.burning_glass.certification` c USING(job_id, import_time, record_country)
 WHERE job_id IN (
   SELECT job_id
