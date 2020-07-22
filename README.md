@@ -18,4 +18,4 @@ We manually identified occupation names and occupation codes that did not relate
 The last query is a normalized count of "artificial intelligence" mentions in LexisNexis. 
 
 We include the list of job titles for the Core AI & AI Adjacent job postings in 2019 in the U.S.:
-*[US_AI_2019_jobtitles.csv](https://github.com/georgetown-cset/AI_marketdemand_BG/blob/master/US_AI_2019_jobtitles.csv)
+* [US_AI_2019_jobtitles.csv](https://github.com/georgetown-cset/AI_marketdemand_BG/blob/master/US_AI_2019_jobtitles.csv)
