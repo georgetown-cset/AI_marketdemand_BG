@@ -1,5 +1,5 @@
 # AI_marketdemand_BG
-code for AI job market analysis (Burning Glass)
+Files and code for the CSET Data Brief ("U.S. Demand for AI-Related Talent")[https://cset.georgetown.edu/research/u-s-demand-for-ai-related-talent/]code 
 
 ## Market demand for AI talent report
 We used Burning Glass job posting data for this report. The data was last queried on 06/22/2020.
