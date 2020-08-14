@@ -1,5 +1,5 @@
 # AI_marketdemand_BG
-Files and code for the CSET Data Brief ("U.S. Demand for AI-Related Talent")[https://cset.georgetown.edu/research/u-s-demand-for-ai-related-talent/]code 
+Files and code for the CSET Data Brief ["U.S. Demand for AI-Related Talent"](https://cset.georgetown.edu/research/u-s-demand-for-ai-related-talent/) 
 
 ## Market demand for AI talent report
 We used Burning Glass job posting data for this report. The data was last queried on 06/22/2020.
