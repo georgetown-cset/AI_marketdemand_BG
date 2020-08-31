@@ -1,4 +1,4 @@
-# AI_marketdemand_BG
+# U.S. Demand for AI-Related Talent
 Files and code for the CSET Data Brief ["U.S. Demand for AI-Related Talent"](https://cset.georgetown.edu/research/u-s-demand-for-ai-related-talent/) 
 
 ## Market demand for AI talent report
@@ -20,7 +20,7 @@ The last query is a normalized count of "artificial intelligence" mentions in Le
 We include the list of job titles for the Core AI & AI Adjacent job postings in 2019 in the U.S.:
 * [US_AI_2019_jobtitles.csv](https://github.com/georgetown-cset/AI_marketdemand_BG/blob/master/US_AI_2019_jobtitles.csv)
 
-# Part II Degree Majors and Skills Assessment
+# U.S. Demand for AI-Related Talent Part II: Degree Majors and Skills Assessment
 Files and code for the CSET Data Brief "U.S. Demand for AI-Related Talent Part II: Degree Majors and Skills Assessment"
 
 All queries used for analysis are contained in [BG_ai_skills_majors.sql](https://github.com/georgetown-cset/AI_marketdemand_BG/blob/master/BG_ai_skills_majors.sql)
